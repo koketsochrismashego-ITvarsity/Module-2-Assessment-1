@@ -33,7 +33,7 @@ body{
       z-index : 500;
       width   : 100%;
       height  : 40px;
-      background-color: darkgreen;
+      background-color: skyblue;
 }
 
 #tabs-top a{
@@ -63,7 +63,7 @@ body{
       z-index  : 500;
       width    : 100%;
       height   : 40px;
-      background-color: forestgreen;
+      background-color: skyblue;
 }
 
 #tabs-bottom a{
@@ -127,7 +127,7 @@ a.info-box{
 .info-box img.right{
       float      : right;
       margin-top : 25px;
-      height     40px; 
+      height     : 40px; 
 }
 
 /*================ INFO BOX FULL ===============*/
@@ -191,7 +191,7 @@ textarea{
 
 .button{
       display : block;
-      background-color: forestgreen;
+      background-color: skyblue;
       text-decoration : none;
       text-align  : center;
       color       : white;
